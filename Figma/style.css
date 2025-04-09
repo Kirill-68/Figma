@@ -28,17 +28,20 @@
 .passwor1{
     display: block;
 }
-.llp .password{
+/* .llp .password{
     display: block;
     margin-left: 100px;
+} */
+.password{
+    margin-left: -100px;
 }
 .llp .passwor2{
     display: block;
 }
 .password{
     display: block;
-    margin-left: 750px;
-    margin-top: -134px;
+    margin-left: 500px;
+    margin-top: -20px;
 }
 .p .password{
     display: block;
@@ -52,7 +55,7 @@
 .log .login{
     display: block;
     margin-left: 550px;
-    margin-top: -260px;
+    margin-top: -140px;
 }
 .submit{
     width: 100px;
@@ -125,4 +128,39 @@
     margin-left: 768px;
     margin-top: -30px;
     font-size: 25px;
+}
+.local{
+    display: block;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.new{
+    display: block;
+    margin-left: 570px;
+    margin-top: 70px;
+}
+.new_repeat{
+    display: block;
+    margin-left: 550px;
+    margin-top: 80px;
+}
+.redirectt{
+    margin-left: 700px;
+    margin-top: -205px;
+}
+.new_class{
+    display: block;
+    margin-left: 700px;
+    margin-top: 65px;
+}
+.class2{
+    display: block;
+    margin-left: 700px;
+    margin-top: 80px;
+}
+.button{
+    margin-left: 800px;
+    margin-top: 100px;
+    width: 200px;
+    height: 30px;
 }
